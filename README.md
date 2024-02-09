@@ -16,4 +16,5 @@ To run this app, you need to have Flutter installed. Follow the [official Flutte
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/virtual-board-app.git
+git clone https://github.com/yourusername/hack_this_fall_2024.git
+
