@@ -1,5 +1,5 @@
-# hack_this_fall_2024
-# Virtual Board App
+# ⭐️⭐️⭐️hack_this_fall_2024
+# ⭐️⭐️Virtual Board App
 
 This Flutter app allows teachers to create a virtual board where they can draw and interact with their students in real-time. The app utilizes OpenCV for image processing and drawing functionalities.
 
@@ -16,5 +16,5 @@ To run this app, you need to have Flutter installed. Follow the [official Flutte
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/hack_this_fall_2024.git
+git clone https://github.com/Shrijan125/hack_this_fall_2024.git
 
